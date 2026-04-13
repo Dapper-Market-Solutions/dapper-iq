@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://dappermarketsolutions.com/dapper-iq",
+      "destination": "https://dapperms.com/dapper-iq",
       "permanent": true
     }
   ]
