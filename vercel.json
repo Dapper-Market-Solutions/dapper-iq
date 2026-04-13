@@ -1,4 +1,9 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://dappermarketsolutions.com/dapper-iq",
+      "permanent": true
+    }
+  ]
 }
